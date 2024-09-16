@@ -83,7 +83,7 @@ This project focuses on developing a comprehensive food ordering system integrat
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/samueltexa/food-ordering-blog-platform.git
+   git clone https://github.com/samueltexa/food-system.git
    ```
 
 2. **Navigate to the project directory:**
